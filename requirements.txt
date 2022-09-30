@@ -14,7 +14,7 @@ GitPython==3.0.3
 hydra-core~=1.0.6
 ipython==7.19.0
 torch>=1.4.0
-joblib==0.14.1
+joblib==1.2.0
 nltk==3.4.5
 numpy==1.17.5
 omegaconf<2.1.0
